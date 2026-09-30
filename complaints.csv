@@ -1,0 +1,3 @@
+complaintId,studentName,roomNumber,category,description,status,createdAt,statusUpdatedAt
+HC001,Sharad,A504,Wi-Fi,"Cannot connect: Turn Wi-Fi off and on, then reconnect to the hostel network.",Pending,2026-09-30T11:24:27.136665,2026-09-30T11:24:27.136665
+HC006,Neer,A501,Mess,Food quality: Check the meal menu and tell the mess supervisor what needs improvement.,Pending,2026-09-30T12:14:44.001081,2026-09-30T12:14:44.001081
